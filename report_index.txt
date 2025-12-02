@@ -1,0 +1,18 @@
+Artifacts produced:
+
+DEV_001_anomalies_methods.csv
+DEV_001_humidity_ema.png
+DEV_001_similarity_graph.gml
+device_profiles_clusters.csv
+sensor_correlation_pearson.png
+device_cluster_pca.png
+DEV_001_vibration_wavelet.png
+DEV_001_temperature_smoothing.png
+DEV_001_rolling_features.csv
+DEV_001_anomaly_plot.png
+sensor_correlation_spearman.png
+cleaned_sensor_data.csv
+missing_summary_per_device.csv
+DEV_001_temperature_forecast_ARIMA.png
+DEV_001_similarity_network_euclidean.png
+device_health_scores.csv
